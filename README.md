@@ -1,7 +1,5 @@
 # Official Ruby client for Eligible API has moved!
 
-Hello,
-
 If you are looking for the official Ruby client for Eligible.com API, the project has moved to a new place now.
 
 You have the following options for including the client into your project:
