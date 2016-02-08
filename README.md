@@ -13,7 +13,7 @@ You have the following options for including the client into your project:
 2. Development version: Use unreleased development version of the gem from the new Github repository:
 
     ```ruby
-    gem 'eligible', git: "https://github.com/eligible/eligible-ruby.git"
+    gem 'eligible', git: 'https://github.com/eligible/eligible-ruby.git'
     ```
 
 Should you have any questions about the change, please contact our support team at support@eligible.com.
