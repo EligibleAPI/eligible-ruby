@@ -1,4 +1,4 @@
-# Warning: Official Ruby client for Eligible API has moved!
+# Official Ruby client for Eligible API has moved!
 
 Hello,
 
